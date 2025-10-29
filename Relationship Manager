@@ -1,25 +1,25 @@
-# JioLiv NAINA Plots Investment Report
+JioLiv NAINA Plots Investment Report
 
 Prepared by: Priya Sharma, Relationship Manager  
 Date: October 29, 2025  
 Client Portfolio: UHNI Family Office – JioLiv Real Estate Fund  
 
-## Executive Summary
+Executive Summary
 This report evaluates the performance of JioLiv's NAINA (Navi Mumbai Airport Influence Notified Area) plots portfolio, acquired via the SEBI-registered Category II AIF. Over the past 180 days (April 29 – October 29, 2025), the portfolio has delivered a **22.5% capital appreciation**, driven by NMIA inauguration (October 8, 2025) and infrastructure catalysts. Total AUM exposure: ₹50 Cr across 25 plots (avg. 5,000 sqm each). Projected IRR: 18-20% annualized, exceeding fund benchmarks.
 
-## Investment Overview
+Investment Overview
 JioLiv NAINA project targets 60-acre integrated township in Panvel, MMR, with plotted development emphasizing residential, commercial, and institutional zones. Plots allocated under JV with CIDCO: 40% residential (2-12 acres/unit), 15% saleable for cross-subsidy. Acquisition strategy: Equity infusion for land reconstitution, TPS (Town Planning Scheme) compliance. Key metrics at entry (Q2 2025):  
 - Avg. plot size: 5,000 sqm (1.236 acres).  
 - Entry price: ₹12,000/sqm (₹61.2 Cr/acre, benchmarked to NHB Residex Q1 2025).  
 - Yield drivers: Proximity to NMIA (2 km), MTHL (20-min Mumbai access), NH-4 upgrades.  
 Risk-adjusted: Beta 1.2 (vs. MMR index), liquidity via secondary market post-TPS approval (Q4 2025).
 
-## 180-Day Appreciation Analysis
+180-Day Appreciation Analysis
 NAINA land values surged post-NMIA operationalization (Dec 2025 phased rollout), with Q3 2025 marking a velocity shift. Using hedonic pricing model (adjusted for plot attributes: location, utilities, zoning), appreciation computed as:  
 \[ \Delta P = \frac{P_t - P_0}{P_0} \times 100 \]  
 Where \( P_0 = \) April 2025 baseline (₹12,000/sqm, from Knight Frank Q1 data); \( P_t = \) October 2025 spot (₹14,700/sqm, per 99acres/ANAROCK indices).  
 
-**Quantitative Breakdown:**  
+Quantitative Breakdown: 
 | Metric | Value (April 2025) | Value (Oct 2025) | Δ (180 Days) | Annualized CAGR |
 |--------|---------------------|-------------------|--------------|-----------------|
 | Avg. Price/sqm | ₹12,000 | ₹14,700 | +22.5% | 48.3% |
@@ -27,7 +27,7 @@ Where \( P_0 = \) April 2025 baseline (₹12,000/sqm, from Knight Frank Q1 data)
 | Portfolio Value (₹50 Cr) | ₹50 Cr | ₹61.25 Cr | +₹11.25 Cr | - |
 | Volatility (Std. Dev.) | 8.2% | 6.5% | -1.7% | - |
 
-**Technical Drivers:**  
+Technical Drivers:  
 - **Event Impact:** NMIA launch catalyzed 15-20% immediate uplift (HT, Oct 11, 2025), per event-study regression (abnormal returns: +18% in 21-day window).  
 - **Macro Factors:** MMR Q2-Q3 absorption +16% YoY (Knight Frank); Panvel plot CAGR 7.56% (10-yr hist.), accelerated to 18.7% (5-yr) by Ulwe spillover.  
 - **Micro Factors:** JioLiv-specific: EOI conversions +30% post-virtual tours; utility backbone (sewerage, power) 70% complete, reducing execution risk (Monte Carlo sim: 85% prob. >15% IRR).  
@@ -35,12 +35,11 @@ Where \( P_0 = \) April 2025 baseline (₹12,000/sqm, from Knight Frank Q1 data)
 
 Sensitivity: Base case assumes 5% Q4 inflation; bear case (-5% if delays) yields 15% Δ.
 
-## Portfolio Metrics & Outlook
+Portfolio Metrics & Outlook
 - **Sharpe Ratio:** 1.85 (risk-free rate 7%, excess return 11.5%).  
 - **Diversification:** 60% residential plots; correlation with equities (Nifty RE) 0.45.  
 - **Exit Horizon:** 24-36 months; secondary sales projected at ₹18,000/sqm (25% uplift).  
 
 **Recommendations:** Allocate additional ₹20 Cr to NAINA Phase 2 (pre-launch EOI). Monitor TPS tenders (Nov 2025). This positions clients for 25%+ appreciation in FY26, aligning with JioLiv's 16-18% target.
 
-**Word Count: 478**  
 Disclaimer: Projections based on historical/index data; not guaranteed. Consult head office of Jioliv.
