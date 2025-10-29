@@ -1,6 +1,6 @@
 JioLiv Property Investment
 
-## 1. Expression of Interest (EOI) Form
+1. Expression of Interest (EOI) Form
 
 JIO LIV REALTY PRIVATE LIMITED  
 Expression of Interest (EOI) for Property Investment  
@@ -8,7 +8,7 @@ Project: JioLiv NAINA Integrated Township (Plots Allocation)
 Date: [DD/MM/YYYY]  
 EOI Reference No.: JIO-EOI-NAINA-2025-[Unique ID]  
 
-### Applicant Details
+Applicant Details
 | Field | Details |
 |-------|---------|
 | Full Name* | [e.g., Rohan Singh] |
@@ -20,14 +20,14 @@ EOI Reference No.: JIO-EOI-NAINA-2025-[Unique ID]
 | Residential Address* | [Full Address, City, PIN Code] |
 | Correspondence Address (if different) | [Full Address] |
 
-### Investment Details
+Investment Details
 - **Preferred Project**: ☑ JioLiv NAINA (Plots) ☐ Other (Specify: __________)  
 - **Investment Amount (₹)**: [e.g., 1,00,00,000 (₹1 Crore)]  
 - **Plot Size Preference**: [e.g., 5,000 sqm]  
 - **Funding Source**: ☑ Self ☐ Loan ☐ Other (Specify: __________)  
 - **Timeline for Commitment**: [e.g., Within 30 days of PPM Review]  
 
-### Declaration
+Declaration
 I/We hereby express our non-binding interest in investing in the JioLiv Real Estate Fund (SEBI-registered Category II AIF) for the specified project. This EOI is subject to due diligence, review of Private Placement Memorandum (PPM), and execution of term sheets. I/We understand that submission of this EOI may involve a refundable token amount of ₹[e.g., 1% of Investment Amount, max ₹5 Lakh], adjustable against commitment.  
 
 No legal obligation is created by this EOI. I/We confirm eligibility as an accredited investor (Net Worth > ₹2 Cr or Income > ₹50 Lakh p.a.).  
@@ -40,7 +40,7 @@ No legal obligation is created by this EOI. I/We confirm eligibility as an accre
 
 ---
 
-## 2. Sample KYC Application Form (Individual)
+2. Sample KYC Application Form (Individual)
 
 **JIO LIV REALTY PRIVATE LIMITED**  
 **Know Your Customer (KYC) Application Form**  
@@ -48,7 +48,7 @@ No legal obligation is created by this EOI. I/We confirm eligibility as an accre
 **Applicant ID: [Auto-Generated]**  
 **Date: [DD/MM/YYYY]**  
 
-### Section A: Personal Details (Mandatory*)
+Section A: Personal Details (Mandatory*)
 - **Full Name (as per PAN)**: [e.g., Rohan Singh]  
 - **Father's/Mother's Name**: [e.g., Rajesh Singh]  
 - **Date of Birth**: [DD/MM/YYYY] (Age: __ Years)  
@@ -60,23 +60,23 @@ No legal obligation is created by this EOI. I/We confirm eligibility as an accre
 - **Annual Income (₹)**: ☑ <5L ☐ 5-25L ☐ >25L  
 - **Net Worth (₹)**: [e.g., 5 Cr]  
 
-### Section B: Address Details
+Section B: Address Details
 - **Residential Address (Proof Enclosed)**: [Full Address, City, State, PIN]*  
   - Proof: ☑ Aadhaar ☐ Passport ☐ Voter ID ☐ Bank Statement ☐ Utility Bill (Last 3 Months)  
 - **Office Address (if applicable)**: [Full Address]  
 - **Contact**: Mobile* [+91-XXXXXXXXXX] | Email* [ ] | Tel [ ]  
 
-### Section C: Bank Details (For Refunds/Payments)
+Section C: Bank Details (For Refunds/Payments)
 - **Bank Name**: [e.g., HDFC Bank]  
 - **Branch & IFSC**: [e.g., Mumbai Main, HDFC0000001]  
 - **Account No.**: [XXXXXXXXXXXX]  
 - **Account Type**: ☑ Savings ☐ Current  
 
-### Section D: FATCA/CRS Declaration (For NRIs/Foreign Investors)
+Section D: FATCA/CRS Declaration (For NRIs/Foreign Investors)
 - Country of Tax Residency: [India/Other]  
 - Tax ID: [PAN/GIN]  
 
-### Section E: Documents Checklist
+Section E: Documents Checklist
 | Document | Submitted (Y/N) | Self-Attested Copy Enclosed |
 |----------|-----------------|-----------------------------|
 | PAN Card* | ☐ | ☐ |
@@ -86,7 +86,7 @@ No legal obligation is created by this EOI. I/We confirm eligibility as an accre
 | Passport-Size Photo* | ☐ | ☐ |
 | Income Proof (ITR/Form 16/Salary Slip) | ☐ | ☐ |
 
-### Declaration
+Declaration
 I/We hereby declare that the information provided is true and complete. I/We authorize JioLiv Realty to verify details with CKYCR/KRA/SEBI. Non-compliance may lead to rejection.  
 
 **Signature**: ___________________________  
@@ -96,7 +96,7 @@ I/We hereby declare that the information provided is true and complete. I/We aut
 
 ---
 
-## 3. Sample Payment Details Form
+3. Sample Payment Details Form
 
 **JIO LIV REALTY PRIVATE LIMITED**  
 **Payment Details & Commitment Form**  
@@ -105,7 +105,7 @@ I/We hereby declare that the information provided is true and complete. I/We aut
 **Date: [DD/MM/YYYY]**  
 **Commitment Reference: JIO-PAY-NAINA-2025-[ID]**  
 
-### Payment Summary
+Payment Summary
 | Item | Amount (₹) | Mode | Status |
 |------|------------|------|--------|
 | Token Amount (1% of Commitment, Refundable) | [e.g., 1,00,000] | ☐ Cheque ☐ NEFT/RTGS ☐ UPI | ☐ Paid |
@@ -113,7 +113,7 @@ I/We hereby declare that the information provided is true and complete. I/We aut
 | Subsequent Tranches (as per PPM) | [Schedule: e.g., 25% Q1 2026] | ☐ | ☐ Scheduled |
 | **Total Commitment** | [₹1,01,00,000] | - | - |
 
-### Bank Details for Remittance
+Bank Details for Remittance
 - **Beneficiary**: JioLiv Real Estate Fund Trust  
 - **Bank**: [e.g., ICICI Bank, BKC Branch]  
 - **Account No.**: [XXXXXXXXXXXX] (Escrow A/c for AIF)  
@@ -121,27 +121,26 @@ I/We hereby declare that the information provided is true and complete. I/We aut
 - **Swift (for NRI)**: [ICICINBBXXX]  
 - **Purpose Code (RBI)**: P1303 (Equity Investment in AIF)  
 
-### Investor Bank Details (For Receipts/Refunds)
+Investor Bank Details (For Receipts/Refunds)
 - **Account Holder**: [e.g., Rohan Singh]  
 - **Bank Name**: [e.g., HDFC Bank]  
 - **Branch & IFSC**: [Mumbai Main, HDFC0000001]  
 - **Account No.**: [XXXXXXXXXXXX]  
 
-### Terms & Conditions
+Terms & Conditions
 1. Payments are irrevocable post-term sheet execution; subject to AIF drawdown schedule.  
 2. All payments via banking channels; cash > ₹2 Lakh prohibited (ITR 1961).  
 3. TDS @ 10% on interest income (if any); Form 16A issued.  
 4. Refunds (if applicable) within 15 days, net of bank charges.  
 5. Compliance: SEBI AIF Reg. 2012; RERA Maharashtra (if applicable).  
 
-### Declaration
+Declaration
 I/We confirm remittance of the above amounts and agree to the PPM terms. Payments are from legitimate sources; no proceeds of crime.  
 
-**Signature**: ___________________________  
-**Date**: [DD/MM/YYYY] | **UTR/Cheque No.**: [ ]  
+Signature: ___________________________  
+Date: [DD/MM/YYYY] | **UTR/Cheque No.**: [ ]  
 
-**Instructions**: Transfer funds with reference "JIO-PAY-[ID]". Email proof to accounts@jiolivrealty.com. Receipts issued within 7 days. For queries: finance@jiolivrealty.com.  
+Instructions: Transfer funds with reference "JIO-PAY-[ID]". Email proof to accounts@jiolivrealty.com. Receipts issued within 7 days. For queries: finance@jiolivrealty.com.  
 
 ---
 
-These samples align with standard formats (e.g., AMFI KYC, SEBI AIF guidelines). Customize as needed and submit via JioLiv portal for processing. Total Word Count: 498.
